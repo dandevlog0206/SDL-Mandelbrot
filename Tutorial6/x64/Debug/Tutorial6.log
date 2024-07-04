@@ -1,0 +1,81 @@
+﻿  gui.cpp
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\time.h(16,17): warning C4244: 'initializing': conversion from 'double' to 'int32_t', possible loss of data
+  (compiling source file 'gui.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\gui.cpp(212,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\gui.cpp(230,13): warning C4018: '>': signed/unsigned mismatch
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\gui.cpp(243,21): warning C4244: 'initializing': conversion from 'Mandelbrot::real_t' to 'float', possible loss of data
+  main.cpp
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\time.h(16,17): warning C4244: 'initializing': conversion from 'double' to 'int32_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\main.cpp(32,48): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\main.cpp(34,45): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\main.cpp(36,49): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\main.cpp(38,46): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  mandelbrot.cpp
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\color.h(12,33): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  (compiling source file 'mandelbrot.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\color.h(13,33): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  (compiling source file 'mandelbrot.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\color.h(14,33): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  (compiling source file 'mandelbrot.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\color.h(15,33): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  (compiling source file 'mandelbrot.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(149,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(150,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(167,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(168,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(170,22): warning C4838: conversion from 'Mandelbrot::real_t' to 'int' requires a narrowing conversion
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(170,22): warning C4244: 'initializing': conversion from 'Mandelbrot::real_t' to 'int', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(170,40): warning C4838: conversion from 'Mandelbrot::real_t' to 'int' requires a narrowing conversion
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(170,40): warning C4244: 'initializing': conversion from 'Mandelbrot::real_t' to 'int', possible loss of data
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(302,27): warning C4018: '<': signed/unsigned mismatch
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(308,27): warning C4018: '<': signed/unsigned mismatch
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(317,15): warning C4018: '>': signed/unsigned mismatch
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(318,15): warning C4018: '>': signed/unsigned mismatch
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(319,15): warning C4018: '>': signed/unsigned mismatch
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(320,15): warning C4018: '>': signed/unsigned mismatch
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.h(17,45): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'mandelbrot.cpp')
+  D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.h(17,45):
+  the template instantiation context (the oldest one first) is
+  	D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.cpp(248,20):
+  	see reference to function template instantiation 'uint32_t mandelbrot<Mandelbrot::real_t>(T &,T &,uint32_t)' being compiled
+          with
+          [
+              T=Mandelbrot::real_t
+          ]
+  
+  mandelbrot_tbb.cpp
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\color.h(12,33): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  (compiling source file 'mandelbrot_tbb.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\color.h(13,33): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  (compiling source file 'mandelbrot_tbb.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\color.h(14,33): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  (compiling source file 'mandelbrot_tbb.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\color.h(15,33): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  (compiling source file 'mandelbrot_tbb.cpp')
+  
+D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.h(17,45): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'mandelbrot_tbb.cpp')
+  D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot.h(17,45):
+  the template instantiation context (the oldest one first) is
+  	D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\Tutorial6\mandelbrot_tbb.cpp(74,21):
+  	see reference to function template instantiation 'uint32_t mandelbrot<MandelbrotTBB::real_t>(T &,T &,uint32_t)' being compiled
+          with
+          [
+              T=MandelbrotTBB::real_t
+          ]
+  
+  Generating Code...
+  Tutorial6.vcxproj -> D:\blog\SDL Mandelbrot\Tutorials\SDL Mandelbrot\x64\Debug\Tutorial6.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
